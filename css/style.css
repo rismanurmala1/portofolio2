@@ -168,7 +168,7 @@ section {
   scale: 1.3;
   filter: drop-shadow(0 0 10px rgb(240, 136, 255));
   color: black;
-  background-color: rgb(58, 211, 3);
+  background-color: rgb(240, 136, 255);
   -webkit-filter: drop-shadow(0 0 10px rgb(240, 136, 255));
 }
 
